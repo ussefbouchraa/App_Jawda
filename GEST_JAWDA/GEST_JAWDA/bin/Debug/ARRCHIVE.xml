@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tab_xml>
+    <nom>BOUCHRA   </nom>
+    <prenom>ussef</prenom>
+    <cin>Q123      </cin>
+    <date_inscri>2021-04-01</date_inscri>
+    <date_fin>2021-05-01</date_fin>
+    <password>0000      </password>
+  </tab_xml>
+  <tab_xml>
+    <nom>SOSO      </nom>
+    <prenom>IBRA   </prenom>
+    <cin>Q456      </cin>
+    <date_inscri>2021-03-01</date_inscri>
+    <date_fin>2021-05-01</date_fin>
+    <password>1111      </password>
+  </tab_xml>
+  <tab_xml>
+    <nom>CHAIKH</nom>
+    <prenom>lfanan</prenom>
+    <cin>Q789   </cin>
+    <date_inscri>2021-01-02</date_inscri>
+    <date_fin>2021-01-08</date_fin>
+    <password>3333</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>EGOSHITAN</nom>
+    <prenom>8ird</prenom>
+    <cin>Q11</cin>
+    <date_inscri>10/05/2021</date_inscri>
+    <date_fin>05/11/2021</date_fin>
+    <password>4444</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>EGO</nom>
+    <prenom>shitaan</prenom>
+    <cin>Q45</cin>
+    <date_inscri>10/05/2021</date_inscri>
+    <date_fin>06/10/2021</date_fin>
+    <password>4444</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>hamza</nom>
+    <prenom>El Arj</prenom>
+    <cin>Q8080</cin>
+    <date_inscri>10/05/2021</date_inscri>
+    <date_fin>10/06/2021</date_fin>
+    <password>5555</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>EGO</nom>
+    <prenom>sheitan</prenom>
+    <cin>Q1011</cin>
+    <date_inscri>11/05/2021</date_inscri>
+    <date_fin>11/07/2021</date_fin>
+    <password>2222</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>LMORPHINE</nom>
+    <prenom>mahdi</prenom>
+    <cin />
+    <date_inscri>08/06/2021</date_inscri>
+    <date_fin>08/12/2021</date_fin>
+    <password>2222</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>PAUSE_FLOW</nom>
+    <prenom>jawad</prenom>
+    <cin>Q951</cin>
+    <date_inscri>08/06/2021</date_inscri>
+    <date_fin>08/12/2021</date_fin>
+    <password>4444</password>
+  </tab_xml>
+  <tab_xml>
+    <nom>BRAHIM</nom>
+    <prenom>ussef</prenom>
+    <cin>Q1111</cin>
+    <date_inscri>11/06/2021</date_inscri>
+    <date_fin>11/08/2021</date_fin>
+    <password />
+  </tab_xml>
+</NewDataSet>
